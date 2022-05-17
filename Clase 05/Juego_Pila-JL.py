@@ -7,12 +7,16 @@ class JuegoCartas(object):
         
     def crearPila(self):
         self.__mazo = list(range(1,21))
-          
-    
+        random.shuffle(self.__mazo)
+        self.__mazo_validacion
+
     def jugar(self):
         self.crearPila()
-        random.shuffle(self.__mazo)
-        cant_sac = int(input("Ingresar la cantidad de cartas que desea sacar:"))
+        
+        cant_sac = input("Ingresar la cantidad de cartas que desea sacar:")
+        if cant_sac is not in str(range(1,20)):  cant_sac = input("Ingresar la cantidad de cartas que desea sacar, tiene que ser un numero entero entre 1 y 20:")
+        # podria hacer una validation check, yo directamente estoy casteando el valor a int.
+        # if not cant_sac.isdecimal(): cant_sac = input("Ingresar la cantidad de cartas que desea sacar:")
         carta_sacadas = []
         suma_total = 0
         puntos = 10

@@ -1,0 +1,200 @@
+,Código de país,Nombre del país,Región,Año,CO2 (kt),CO2 per cápita (toneladas métricas),Clave_Hash
+26,ABW,Aruba,América Latina y Caribe,1986,"179,683",2.868319392,951
+87,AND,Andorra,Europa y Asia Central,1995,"407,037",6.374494942,951
+104,AFG,Afganistán,Sur de Asia,1960,"414,371",0.046067875,951
+156,AGO,Angola,África subsahariana,1960,"550,05",0.104357101,951
+208,ALB,Albania,Europa y Asia Central,1960,"2.024,18",1.258194928,951
+260,ARE,Emiratos Árabes Unidos,Oriente Medio y Norte de África,1960,"11,001",0.118785902,951
+312,ARG,Argentina,América Latina y Caribe,1960,"48.815,10",2.367473032,951
+396,ARM,Armenia,Europa y Asia Central,1992,"4.052,04",1.174674163,951
+468,ATG,Antigua y Barbuda,América Latina y Caribe,1960,"36,67",0.67061685,951
+520,AUS,Australia,Asia Oriental y Asia-Pacífico,1960,"88.202,35",8.582936643,951
+572,AUT,Austria,Europa y Asia Central,1960,"30.821,14",4.373318828,951
+656,AZE,Azerbaiyán,Europa y Asia Central,1992,"57.678,24",7.813362639,951
+678,BDI,Burundi,África subsahariana,1962,"44,004",0.015202573,951
+728,BEL,Bélgica,Europa y Asia Central,1960,"91.000,27",9.941594074,951
+780,BEN,Benín,África subsahariana,1960,"161,348",0.066354118,951
+832,BFA,Burkina Faso,África subsahariana,1960,"44,004",0.009111897,951
+896,BGD,Bangladés,Sur de Asia,1972,"3.509,32",0.05192953,951
+936,BGR,Bulgaria,Europa y Asia Central,1960,"22.295,36",2.833901121,951
+988,BHR,Baréin,Oriente Medio y Norte de África,1960,"575,719",3.542864352,951
+1040,BHS,Bahamas,América Latina y Caribe,1960,"410,704",3.74983109,951
+1124,BIH,Bosnia y Herzegovina,Europa y Asia Central,1992,"4.136,38",0.961686462,951
+1176,BLR,Bielorrusia,Europa y Asia Central,1992,"87.487,29",8.563751566,951
+1196,BLZ,Belice,América Latina y Caribe,1960,"44,004",0.47795108,951
+1248,BMU,Bermudas,Norteamérica,1960,"157,681",3.551373874,951
+1300,BOL,Bolivia,América Latina y Caribe,1960,"1.004,76",0.272037723,951
+1352,BRA,Brasil,América Latina y Caribe,1960,"46.908,26",0.647067792,951
+1404,BRB,Barbados,América Latina y Caribe,1960,"172,349",0.746312799,951
+1456,BRN,Brunéi,Asia Oriental y Asia-Pacífico,1960,"333,697",4.078179041,951
+1518,BTN,Bután,Sur de Asia,1970,"3,667",0.012581616,951
+1572,BWA,Botsuana,África subsahariana,1972,"22,002",0.02974232,951
+1612,CAF,República Centroafricana,África subsahariana,1960,"88,008",0.058535378,951
+1664,CAN,Canadá,Norteamérica,1960,"192.895,20",10.770847287,951
+1716,CHE,Suiza,Europa y Asia Central,1960,"19.523,11",3.664365979,951
+1820,CHL,Chile,América Latina y Caribe,1960,"13.490,89",1.75304482,951
+1872,CHN,China,Asia Oriental y Asia-Pacífico,1960,"780.726,30",1.170381372,951
+1924,CIV,Costa de Marfil,África subsahariana,1960,"462,042",0.132972288,951
+1976,CMR,Camerún,África subsahariana,1960,"271,358",0.050613584,951
+2028,COG,Congo (República),África subsahariana,1960,"223,687",0.220689812,951
+2080,COL,Colombia,América Latina y Caribe,1960,"16.409,83",0.995718607,951
+2132,COM,Comoras,África subsahariana,1960,"11,001",0.058289002,951
+2184,CPV,Cabo Verde,África subsahariana,1960,"22,002",0.108750667,951
+2236,CRI,Costa Rica,América Latina y Caribe,1960,"491,378",0.368614042,951
+2288,CUB,Cuba,América Latina y Caribe,1960,"13.699,91",1.91845183,951
+2392,CYM,Islas Caimán,América Latina y Caribe,1960,"11,001",1.39837295,951
+2444,CYP,Chipre,Europa y Asia Central,1960,"887,414",1.548907456,951
+2528,CZE,República Checa,Europa y Asia Central,1992,"138.667,61",13.437925393,951
+2579,DEU,Alemania,Europa y Asia Central,1991,"929.973,20",11.622646171,951
+2600,DJI,Yibuti,Oriente Medio y Norte de África,1960,"40,337",0.482292314,951
+2652,DMA,Dominica,América Latina y Caribe,1960,"11,001",0.18330112,951
+2704,DNK,Dinamarca,Europa y Asia Central,1960,"29.779,71",6.502683093,951
+2756,DOM,República Dominicana,América Latina y Caribe,1960,"1.041,43",0.316155334,951
+2808,DZA,Argelia,Oriente Medio y Norte de África,1960,"6.160,56",0.553763578,951
+2860,ECU,Ecuador,América Latina y Caribe,1960,"1.763,83",0.388033962,951
+2912,EGY,Egipto,Oriente Medio y Norte de África,1960,"16.054,13",0.593007187,951
+2998,ERI,Eritrea,África subsahariana,1994,"223,687",0.071059773,951
+3016,ESP,España,Europa y Asia Central,1960,"48.928,78",1.606592711,951
+3100,EST,Estonia,Europa y Asia Central,1992,"22.995,76",14.999603416,951
+3120,ETH,Etiopía,África subsahariana,1960,"352,032",0.015892219,951
+3172,FIN,Finlandia,Europa y Asia Central,1960,"15.104,37",3.409846728,951
+3224,FJI,Fiyi,Asia Oriental y Asia-Pacífico,1960,"194,351",0.494050328,951
+3276,FRA,Francia,Europa y Asia Central,1960,"271.218,65",5.793507945,951
+3328,FRO,Islas Feroe,Europa y Asia Central,1960,"58,672",1.712251211,951
+3417,FSM,Micronesia (Estados Federados),Asia Oriental y Asia-Pacífico,1997,"77,007",0.709702689,951
+3432,GAB,Gabón,África subsahariana,1960,"132,012",0.264452943,951
+3484,GBR,Reino Unido,Europa y Asia Central,1960,"584.299,78",11.15075916,951
+3568,GEO,Georgia,Europa y Asia Central,1992,"15.335,39",3.146690058,951
+3588,GHA,Ghana,África subsahariana,1960,"1.463,13",0.219944425,951
+3640,GIN,Guinea,África subsahariana,1960,"410,704",0.114804749,951
+3692,GMB,Gambia,África subsahariana,1960,"18,335",0.049832984,951
+3744,GNB,Guinea-Bisáu,África subsahariana,1960,"18,335",0.029744957,951
+3796,GNQ,Guinea Ecuatorial,África subsahariana,1960,"22,002",0.087269698,951
+3848,GRC,Grecia,Europa y Asia Central,1960,"9.405,86",1.128920482,951
+3900,GRD,Granada,América Latina y Caribe,1960,"22,002",0.244844816,951
+3952,GRL,Groenlandia,Europa y Asia Central,1960,"223,687",6.882676923,951
+4004,GTM,Guatemala,América Latina y Caribe,1960,"1.345,79",0.326049925,951
+4108,GUY,Guyana,América Latina y Caribe,1960,"660,06",1.169858673,951
+4160,HKG,"Hong Kong (RAE, República Popular China)",Asia Oriental y Asia-Pacífico,1960,"2.955,60",0.960982311,951
+4212,HND,Honduras,América Latina y Caribe,1960,"616,056",0.307669104,951
+4296,HRV,Croacia,Europa y Asia Central,1992,"16.772,86",3.752317226,951
+4316,HTI,Haití,América Latina y Caribe,1960,"286,026",0.073981936,951
+4368,HUN,Hungría,Europa y Asia Central,1960,"45.371,79",4.544465241,951
+4420,IDN,Indonesia,Asia Oriental y Asia-Pacífico,1960,"21.404,28",0.243805292,951
+4524,IND,India,Sur de Asia,1960,"120.581,96",0.268161407,951
+4576,IRL,Irlanda,Europa y Asia Central,1960,"11.180,68",3.952726791,951
+4628,IRN,Irán,Oriente Medio y Norte de África,1960,"37.392,40",1.706877306,951
+4680,IRQ,Irak,Oriente Medio y Norte de África,1960,"8.265,42",1.133839678,951
+4732,ISL,Islandia,Europa y Asia Central,1960,"1.213,78",6.913193297,951
+4784,ISR,Israel,Oriente Medio y Norte de África,1960,"6.468,59",3.059851846,951
+4836,ITA,Italia,Europa y Asia Central,1960,"109.357,27",2.178444772,951
+4888,JAM,Jamaica,América Latina y Caribe,1960,"1.470,47",0.902679123,951
+4940,JOR,Jordania,Oriente Medio y Norte de África,1960,"744,401",0.881991706,951
+4992,JPN,Japón,Asia Oriental y Asia-Pacífico,1960,"232.781,16",2.516537519,951
+5076,KAZ,Kazajistán,Europa y Asia Central,1992,"261.306,75",15.895446373,951
+5096,KEN,Kenia,África subsahariana,1960,"2.427,55",0.299496881,951
+5180,KGZ,Kirguistán,Europa y Asia Central,1992,"10.861,65",2.40546884,951
+5200,KHM,Camboya,Asia Oriental y Asia-Pacífico,1960,"234,688",0.041012378,951
+5253,KIR,Kiribati,Asia Oriental y Asia-Pacífico,1961,"7,334",0.173540617,951
+5304,KNA,San Cristóbal y Nieves,América Latina y Caribe,1960,"11,001",0.214875872,951
+5356,KOR,Corea (República),Asia Oriental y Asia-Pacífico,1960,"12.552,14",0.501837251,951
+5460,KWT,Kuwait,Oriente Medio y Norte de África,1960,"7.803,38",29.788198288,951
+5512,LAO,Laos,Asia Oriental y Asia-Pacífico,1960,"80,674",0.038054779,951
+5564,LBN,Líbano,Oriente Medio y Norte de África,1960,"2.581,57",1.430289424,951
+5616,LBR,Liberia,África subsahariana,1960,"165,015",0.147293527,951
+5668,LBY,Libia,Oriente Medio y Norte de África,1960,"693,063",0.483113477,951
+5720,LCA,Santa Lucía,América Latina y Caribe,1960,"14,668",0.163157251,951
+5819,LIE,Liechtenstein,Europa y Asia Central,2007,"69,673",1.966441816,951
+5824,LKA,Sri Lanka,Sur de Asia,1960,"2.258,87",0.228261116,951
+5921,LSO,Lesoto,África subsahariana,2005,"1.419,13",0.736886788,951
+5960,LTU,Lituania,Europa y Asia Central,1992,"22.148,68",5.985945298,951
+5980,LUX,Luxemburgo,Europa y Asia Central,1960,"11.518,05",36.685183298,951
+6064,LVA,Letonia,Europa y Asia Central,1992,"13.538,56",5.178582111,951
+6084,MAC,"Macao (RAE, República Popular China)",Asia Oriental y Asia-Pacífico,1960,"51,338",0.299423759,951
+6188,MAR,Marruecos,Oriente Medio y Norte de África,1960,"3.641,33",0.295357988,951
+6324,MDA,Moldavia,Europa y Asia Central,1992,"20.971,57",5.658816244,951
+6344,MDG,Madagascar,África subsahariana,1960,"399,703",0.078382804,951
+6407,MDV,Maldivas,Sur de Asia,1971,"3,667",0.030733772,951
+6448,MEX,México,América Latina y Caribe,1960,"63.116,40",1.653382289,951
+6530,MHL,Islas Marshall,Asia Oriental y Asia-Pacífico,1990,"47,671",1.007843552,951
+6584,MKD,Macedonia (Antigua República Yugoslava),Europa y Asia Central,1992,"10.777,31",5.451255998,951
+6604,MLI,Mali,África subsahariana,1960,"121,011",0.022989591,951
+6656,MLT,Malta,Oriente Medio y Norte de África,1960,"341,031",1.044345429,951
+6708,MMR,Birmania,Asia Oriental y Asia-Pacífico,1960,"2.717,25",0.126463436,951
+6805,MNE,Montenegro,Europa y Asia Central,2005,"2.057,19",3.34904381,951
+6812,MNG,Mongolia,Asia Oriental y Asia-Pacífico,1960,"1.294,45",1.354716938,951
+6916,MOZ,Mozambique,África subsahariana,1960,"1.884,84",0.251537178,951
+6968,MRT,Mauritania,África subsahariana,1960,"36,67",0.042730461,951
+7020,MUS,Mauricio,África subsahariana,1960,"179,683",0.272514943,951
+7076,MWI,Malaui,África subsahariana,1964,"330,03",0.083268911,951
+7134,MYS,Malasia,Asia Oriental y Asia-Pacífico,1970,"14.601,99",1.338572181,951
+7206,NAM,Namibia,África subsahariana,1990,"25,669",0.018134907,951
+7228,NCL,Nueva Caledonia,Asia Oriental y Asia-Pacífico,1960,"861,745",10.908164557,951
+7280,NER,Níger,África subsahariana,1960,"29,336",0.008640403,951
+7332,NGA,Nigeria,África subsahariana,1960,"3.406,64",0.075348847,951
+7384,NIC,Nicaragua,América Latina y Caribe,1960,"531,715",0.29960906,951
+7436,NLD,Países Bajos,Europa y Asia Central,1960,"73.505,02",6.39917962,951
+7488,NOR,Noruega,Europa y Asia Central,1960,"13.102,19",3.658563698,951
+7540,NPL,Nepal,Sur de Asia,1960,"80,674",0.00802172,951
+7592,NZL,Nueva Zelanda,Asia Oriental y Asia-Pacífico,1960,"11.543,72",4.867069736,951
+7648,OMN,Omán,Oriente Medio y Norte de África,1964,"11,001",0.018067332,951
+7696,PAK,Pakistán,Sur de Asia,1960,"14.154,62",0.315164764,951
+7748,PAN,Panamá,América Latina y Caribe,1960,"997,424",0.880397979,951
+7800,PER,Perú,América Latina y Caribe,1960,"8.173,74",0.81237664,951
+7852,PHL,Filipinas,Asia Oriental y Asia-Pacífico,1960,"8.335,09",0.317249028,951
+7904,PLW,Palaos,Asia Oriental y Asia-Pacífico,1960,"14,668",1.521892509,951
+7956,PNG,Papúa Nueva Guinea,Asia Oriental y Asia-Pacífico,1960,"179,683",0.091350751,951
+8008,POL,Polonia,Europa y Asia Central,1960,"199.767,16",6.740362582,951
+8150,PRK,Corea (República Popular Democrática),Asia Oriental y Asia-Pacífico,1998,"64.927,90",2.892757518,951
+8164,PRT,Portugal,Europa y Asia Central,1960,"8.225,08",0.928578089,951
+8216,PRY,Paraguay,América Latina y Caribe,1960,"304,361",0.15994831,951
+8268,PYF,Polinesia Francesa,Asia Oriental y Asia-Pacífico,1960,"36,67",0.469628472,951
+8320,QAT,Catar,Oriente Medio y Norte de África,1960,"176,016",3.72056057,951
+8372,ROU,Rumania,Europa y Asia Central,1960,"53.450,19",2.903812021,951
+8456,RUS,Rusia,Europa y Asia Central,1992,"2.081.840,24",14.001306358,951
+8476,RWA,Ruanda,África subsahariana,1960,"106,343",0.036252175,951
+8528,SAU,Arabia Saudí,Oriente Medio y Norte de África,1960,"2.676,91",0.655055537,951
+8580,SDN,Sudán,África subsahariana,1960,"1.360,46",0.129783714,951
+8632,SEN,Senegal,África subsahariana,1960,"828,742",0.260810811,951
+8684,SGP,Singapur,Asia Oriental y Asia-Pacífico,1960,"1.393,46",0.846367833,951
+8736,SLB,Islas Salomón,Asia Oriental y Asia-Pacífico,1960,"11,001",0.093332428,951
+8788,SLE,Sierra Leona,África subsahariana,1960,"715,065",0.327755728,951
+8840,SLV,El Salvador,América Latina y Caribe,1960,"619,723",0.224301883,951
+8943,SOM,Somalia,África subsahariana,1960,"84,341",0.030598466,951
+9041,SRB,Serbia,Europa y Asia Central,2006,"53.765,55",7.25427423,951
+9099,STP,Santo Tomé y Príncipe,África subsahariana,1960,"11,001",0.171208466,951
+9151,SUR,Surinam,América Latina y Caribe,1960,"432,706",1.492233733,951
+9235,SVK,Eslovaquia,Europa y Asia Central,1992,"44.183,68",8.328661591,951
+9287,SVN,Eslovenia,Europa y Asia Central,1992,"12.478,80",6.250344854,951
+9307,SWE,Suecia,Europa y Asia Central,1960,"49.222,14",6.576406584,951
+9359,SWZ,Suazilandia,África subsahariana,1960,"33,003",0.094501379,951
+9466,SYC,Seychelles,África subsahariana,1963,"7,334",0.162342837,951
+9515,SYR,Siria,Oriente Medio y Norte de África,1960,"3.223,29",0.701817876,951
+9602,TCA,Islas Turcas y Caicos,América Latina y Caribe,1995,"11,001",0.717425329,951
+9619,TCD,Chad,África subsahariana,1960,"55,005",0.018319148,951
+9671,TGO,Togo,África subsahariana,1960,"66,006",0.04176239,951
+9723,THA,Tailandia,Asia Oriental y Asia-Pacífico,1960,"3.714,67",0.135585899,951
+9807,TJK,Tayikistán,Europa y Asia Central,1992,"7.220,32",1.307270034,951
+9859,TKM,Turkmenistán,Europa y Asia Central,1992,"28.976,63",7.464408949,951
+9921,TLS,Timor Oriental,Asia Oriental y Asia-Pacífico,2002,"161,348",0.180309934,951
+9931,TON,Tonga,Asia Oriental y Asia-Pacífico,1960,"11,001",0.178587662,951
+9983,TTO,Trinidad y Tobago,América Latina y Caribe,1960,"2.581,57",3.042576086,951
+10035,TUN,Túnez,Oriente Medio y Norte de África,1960,"1.727,16",0.409210934,951
+10087,TUR,Turquía,Europa y Asia Central,1960,"16.820,53",0.610472837,951
+10191,TZA,Tanzania,África subsahariana,1960,"828,742",0.082261435,951
+10243,UGA,Uganda,África subsahariana,1960,"421,705",0.062123143,951
+10327,UKR,Ucrania,Europa y Asia Central,1992,"641.681,00",12.30446257,951
+10347,URY,Uruguay,América Latina y Caribe,1960,"4.319,73",1.701583242,951
+10399,USA,Estados Unidos,Norteamérica,1960,"2.890.696,10",15.999779157,951
+10483,UZB,Uzbekistán,Europa y Asia Central,1992,"115.712,19",5.394758963,951
+10503,VCT,San Vicente y las Granadinas,América Latina y Caribe,1960,"11,001",0.135902061,951
+10555,VEN,Venezuela,América Latina y Caribe,1960,"57.069,52",7.005107008,951
+10659,VNM,Vietnam,Asia Oriental y Asia-Pacífico,1960,"7.491,68",0.215631379,951
+10713,VUT,Vanuatu,Asia Oriental y Asia-Pacífico,1962,"40,337",0.594888358,951
+10800,PSE,Estado de Palestina,Oriente Medio y Norte de África,1997,"396,036",0.146326756,951
+10815,WSM,Samoa,Asia Oriental y Asia-Pacífico,1960,"14,668",0.135008514,951
+10867,YEM,Yemen,Oriente Medio y Norte de África,1960,"3.634,00",0.703402679,951
+10919,ZAF,Sudáfrica,África subsahariana,1960,"97.934,57",5.629717694,951
+10971,COD,Congo (República Democrática),África subsahariana,1960,"2.321,21",0.152228066,951
+11027,ZMB,Zambia,África subsahariana,1964,"3.278,30",0.950433513,951
+11079,ZWE,Zimbabue,África subsahariana,1964,"4.473,74",1.045373579,951
