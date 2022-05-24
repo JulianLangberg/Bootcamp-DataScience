@@ -1,12 +1,16 @@
--- DROP DATABASE henry;
-CREATE DATABASE IF NOT EXISTS henry;
+DROP DATABASE henry;
+CREATE DATABASE henry;
+
 USE henry;
 
-CREATE TABLE IF NOT EXISTS carrera (
+DROP TABLE carrera;
+CREATE TABLE carrera (
 	idCarrera INT NOT NULL AUTO_INCREMENT,
 	nombre VARCHAR (20) NOT NULL,
 	PRIMARY KEY (idCarrera)
 );
+
+DROP TABLE instructor;
 CREATE TABLE instructor (
 	idInstructor INT NOT NULL AUTO_INCREMENT ,
 	cedulaIdentidad VARCHAR(25) NOT NULL,
@@ -16,6 +20,8 @@ CREATE TABLE instructor (
 	fechaIncorporacion DATE,
 	PRIMARY KEY (idInstructor)
 );
+
+DROP TABLE cohorte;
 CREATE TABLE cohorte (
 	idCohorte INT NOT NULL AUTO_INCREMENT,
 	codigo VARCHAR (45) NOT NULL,
@@ -28,6 +34,7 @@ CREATE TABLE cohorte (
 	FOREIGN KEY (idInstructor) REFERENCES instructor(idInstructor)  
 );
 
+DROP TABLE alumno;
 CREATE TABLE alumno (
 	idAlumno INT NOT NULL AUTO_INCREMENT ,
 	cedulaIdentidad VARCHAR(25) NOT NULL,
@@ -39,3 +46,4 @@ CREATE TABLE alumno (
 	PRIMARY KEY (idAlumno),
 	FOREIGN KEY (idCohorte) REFERENCES cohorte(idCohorte) 
 );
+
