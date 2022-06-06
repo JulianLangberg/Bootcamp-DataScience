@@ -14,7 +14,7 @@ VALUES ("25456879","Antonio","Barrios","1981-07-09","2019-11-09"),
 ("33128987",'Jorge','Perez','1988-02-19','2021-12-01');
 
 
-INSERT INTO cohorte (codigo, idCarrera, idInstructor, fechaInicio, fechaFinalizacion)
+INSERT INTO cohorte 
 VALUES (1235,'FT-1235',1,1,'2020-2-1','2020-6-30'),
 (1236,'FT-1236',1,2,'2020-4-5','2020-8-31'),
 (1237,'FT-1237',1,1,'2021-7-5','2021-11-30'),
@@ -28,11 +28,15 @@ VALUES (1235,'FT-1235',1,1,'2020-2-1','2020-6-30'),
 (1245,'FT-1245',1,2,'2022-5-2',null),
 (1246,'DS-1246',2,7,'2022-7-4',null);
 
-/*Delete from cohorte where idCohorte >1234;
+select * from cohorte;
+
 DELETE FROM cohorte WHERE idCohorte = 1245;
 DELETE FROM cohorte WHERE idCohorte = 1246;
 UPDATE cohorte
-SET nombre = 'Carlos' 
-WHERE cedulaIdentidad = 35879145;
+SET fechaInicio = '2022-05-16' 
+WHERE idCohorte = 1243;
 
-select * from cohorte
+use henry;
+select distinct c.nombre, i.nombre, i.apellido from carrera c, instructor i 
+where c.nombre = "Full Stack Developer";
+

@@ -1,0 +1,20 @@
+1) 1) Todos las métricas son KPI's. FALSO   ------- seguro
+2)2) VERDADERO				    ------- seguro				
+3) 2					    ------- seguro	
+4) 1					    ------- seguro	
+5) 1					    ------- seguro 		
+6)42737					    ------- seguro	
+7) 3-Presencial  (telefonico en la revision =2)---- seguro
+8) 2 (marzo)				    ------- seguro		
+9) 2020					    ------- seguro	
+10) 1- INFORMATICA			    ------- not	
+11)202009				    ------- seguro
+12) 11					    ------- seguro		
+13) 3 - impresion			    ------- seguro      	
+14) 6831				    ------- seguro	
+15) 3 - 1675				    ------- seguro	
+16) 0.22 5/10 y 4/9			    ------- seguro
+17) 0.44 1 y 0.5			    ------- seguro
+18) 7       				    ------- seguro
+19 0.32					    ------- seguro			
+20 0.04					    ------- seguro	

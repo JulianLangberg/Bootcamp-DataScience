@@ -17,7 +17,7 @@ Cuando lo que realizamos es una afirmación, en este caso sería que quienes rin
 
 Existen además otras formas de realizar el planteo de H0 y H1, como cuando se debe tomar una decisión. Como por ejemplo controlar la calidad de un determinado respuesto en donde debe medir obligatoriamente 10 cm. "H0: μ= 10" y "H1: μ!= 10". Lo que determina solo dos alternativas.
 
-![test](/_src/assets/hipotesis.PNG)
+![test](../_src/assets/hipotesis.PNG)
 
 METODOLOGÍA DE LA PRUEBA DE HIPÓTESIS: DEFINICIÓN DE ETAPAS
 
@@ -78,7 +78,7 @@ Ha: μ =! μ0
 ## Errores tipo I y II
 Las hipótesis nula y alternativa son afirmaciones opuestas acerca de la población. Una de las dos, ya sea la hipótesis nula o la alternativa es verdadera, pero no ambas. Lo ideal es que la prueba de hipótesis lleve a la aceptación de H0 cuando H0 sea verdadera y al rechazo de H0 cuando Ha sea verdadera. Por desgracia, las conclusiones correctas no siempre son posibles. Como la prueba de hipótesis se basa en una información muestral debe tenerse en cuenta que existe la posibilidad de error.<br>
 
-![Prueba](/_src/assets/hipotesprueba.PNG)
+![Prueba](../_src/assets/hipotesprueba.PNG)
 
 ### Error II
 Si se aceptara H0, es verdadera y a conclusión es correcta. Pero, si al aceptar lo anterior resultará que Ha es verdadera se comete un error tipo II; es decir, se acepta H0 cuando es falsa. 
@@ -106,7 +106,7 @@ Existen dos tipos de errores: <br>
 
 El error de tipo I que se llama también nivel de significación, determina el nivel de riesgo que se está dispuesto a tolerar en términos de rechazo de una hipótesis verdadera (imagina rechazar algo que en realidad era cierto,¡que problema!). La selección del nivel de Error I particular de riesgo, depende de la importancia (significación) del problema. En otras palabras, si se encuentra que los resultados observados en una muestra al azar difieren mar cadamente de aquellos que cabría esperar con la hipótesis y la variación propia del muestreo, se diría que las diferencias observadas son significativas y se estaría en condiciones de rechazar la hipótesis. Habitualmente se trabaja con niveles de significación del 1% y del 5%.
 
-![conclusion](/_src/assets/siginifica.PNG)
+![conclusion](../_src/assets/siginifica.PNG)
 
 ### Determinar el tamaño de la muestra.<br>
 El tamaño de la muestra se determina al tomar en cuenta la importancia de Error I y Error II y al considerar las restricciones presupuestarias al efectuar el estudio. Generalmente las muestras grandes, permiten detectar incluso diferencias pequeñas entre los valores hipotéticos los parámetros poblacionales. Para un nivel de Error I dado, aumentar el tamaño de la muestra reducirá Error II y así se incrementará el poder de la prueba para detectar que la hipótesis nula es falsa. Sin embargo, esto implica un aumento de los costos del estudio, por lo que las restricciones presupuestarias afectarán el tamaño de la muestra que se tomará.<br>
@@ -128,15 +128,15 @@ Este paso está reservado a la efectiva realización de la investigación muestr
 Se debe determinar la técnica a utilizar para determinar si el estadístico muestral ha caído en la región de rechazo o en la de no rechazo, es decir, el modo en que el estadístico de la muestra se va a comparar con el parámetro hipotético. El estadístico de prueba puede ser el estadístico muestral (el estimador insesgado del parámetro que se prueba) o una versión transformada de ese estadístico muestral.<br>
 La forma de verificar la validez del supuesto formulado, consiste en comparar el parámetro poblacional con el estadístico muestral:
 
-![resumen](/_src/assets/estadistico.PNG)
+![resumen](../_src/assets/estadistico.PNG)
 
 El procedimiento para efectuar esta comparación, consiste en construir una variable estandarizada zi cuando n > 30, porque al estar trabajando con una muestra grande las estadísticas tienen Distribución Normal, en cuyo numerador aparece, precisamente, la diferencia entre media poblacional y media muestra , o entre varianza poblacional  y varianza muestral es decir:
 
-![resumen](/_src/assets/z.PNG)
+![resumen](../_src/assets/z.PNG)
 
 o en su defecto la variable t de Student ó chi cuadrado (si se tratara de n ≤ 30 y no conocemos el desvío estandar poblacional), haciendo:
 
-![resumen](/_src/assets/t.PNG)
+![resumen](../_src/assets/t.PNG)
 
 El valor del estadístico de prueba. se compara con el valor crítico en la distribución apropiada, para determinar si cae en la zona de rechazo o en la de no rechazo.
 
@@ -152,10 +152,10 @@ Se determina la decisión de la prueba de hipótesis
 Una vez tomada la decisión, se deben expresar sus consecuencias en términos del problema particular.
 
 
-![resumen](/_src/assets/prueba2.PNG)
+![resumen](../_src/assets/prueba2.PNG)
 
 
-![test](/_src/assets/pruebahip.PNG)
+![test](../_src/assets/pruebahip.PNG)
 
 
 ## Pruebas de hipótesis para la media poblacional.<br>
@@ -164,11 +164,11 @@ En el cálculo de las prubas de hipótesis, debemos estandarizar las variables a
 
 Cuando nos encontramos frente a una prueba de hipótesis del tipo: "H0: μ<= x" y "H1: μ> x" o "H0: μ>= x" y "H1: μ< x" , la denominamos prueba de una cola.
 
-![prueba2](/_src/assets/unacola.jpg)
+![prueba2](../_src/assets/unacola.jpg)
 
 Cuando nos encontramos frente a una prueba de hipótesis del tipo: "H0: μ= x" y "H1: μ!= 1x", la denominamos prueba de dos colas.
 
-![prueba2](/_src/assets/doscolas.png)
+![prueba2](../_src/assets/doscolas.png)
 
 
 # IMPORTANTE
