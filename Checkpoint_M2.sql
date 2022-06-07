@@ -4,7 +4,7 @@ select IDProducto from producto where Concepto = 'EPSON COPYFAX 2000';
 
 #7) ¿Cuál es el canal de ventas con menor cantidad de ventas registradas?
 
-select  v.IdCanal,c.Canal, sum(v.Cantidad*v.precio) as Cantidad_Ventas from venta v, canal_venta c
+select  v.IdCanal,c.Canal, count(v.IdVenta) as Cantidad_Ventas from venta v, canal_venta c
 where c.IdCanal=v.IdCanal
 group by IdCanal
 order by Cantidad_Ventas ASC;
