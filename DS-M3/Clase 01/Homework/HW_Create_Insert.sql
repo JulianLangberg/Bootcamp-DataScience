@@ -15,12 +15,14 @@ INSERT INTO `canal_venta` VALUES (1,'Telefónica\r'),(2,'OnLine\r'),(3,'Presenci
 
 UNLOCK TABLES;
 
-DROP TABLE IF EXISTS `producto`;
+DROP TABLE IF EXISTS `clientes`;
 
-CREATE TABLE `producto` (
-  `IDProducto` int NOT NULL,
-  `Concepto` varchar(100) COLLATE utf8mb4_spanish_ci DEFAULT NULL,
-  `Tipo` varchar(50) COLLATE utf8mb4_spanish_ci DEFAULT NULL,
+CREATE TABLE `clientes` (
+  `ID` int NOT NULL,
+  `Provincia` varchar(100) COLLATE utf8mb4_spanish_ci DEFAULT NULL,
+  `Nombre_y_Apellido` varchar(100) COLLATE utf8mb4_spanish_ci DEFAULT NULL,
+  `Domicilio` varchar(100) COLLATE utf8mb4_spanish_ci DEFAULT NULL,
+  `Telefonoventa` varchar(100) COLLATE utf8mb4_spanish_ci DEFAULT NULL,
   `Precio` decimal(15,3) NOT NULL DEFAULT '0.000',
   PRIMARY KEY (`IDProducto`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;

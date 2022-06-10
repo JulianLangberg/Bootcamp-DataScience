@@ -68,7 +68,7 @@ CREATE TABLE IF NOT EXISTS `gasto` (
     `Fecha`			DATE,
   	`Monto` 		DECIMAL(10,2)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;	
-LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\gasto.csv' 
+LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Gasto.csv' 
 INTO TABLE `gasto` 
 FIELDS TERMINATED BY ',' ENCLOSED BY '' ESCAPED BY '' 
 LINES TERMINATED BY '\n' IGNORE 1 LINES;
