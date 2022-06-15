@@ -1,5 +1,7 @@
 /*Nombres de campos*/
 use henry_m3;
+
+
 ALTER TABLE `calendario` CHANGE `id` `IdFecha` INT(11) NOT NULL;
 ALTER TABLE `cliente` CHANGE `ID` `IdCliente` INT(11) NOT NULL;
 ALTER TABLE `empleado` CHANGE `IDEmpleado` `IdEmpleado` INT(11) NULL DEFAULT NULL;
@@ -72,7 +74,7 @@ UPDATE `sucursal` SET Sucursal = 'Sin Dato' WHERE TRIM(Sucursal) = "" OR ISNULL(
 UPDATE `sucursal` SET Provincia = 'Sin Dato' WHERE TRIM(Provincia) = "" OR ISNULL(Provincia);
 UPDATE `sucursal` SET Localidad = 'Sin Dato' WHERE TRIM(Localidad) = "" OR ISNULL(Localidad);
 
-select * from venta where Precio = '' or Cantidad = '';
+select * from venta where Precio = ''; -- or Cantidad = '';
 select count(*) from venta;
 
 /*Tabla ventas limpieza y normalizacion*/

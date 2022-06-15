@@ -60,7 +60,7 @@ UPDATE venta v
 JOIN aux_venta a
 ON (v.IdVenta = a.IdVenta AND a.Motivo IN (2,3))
 SET v.Outlier = 0;
-
+SHOW ENGINE INNODB STATUS;
 -- KPI: Margen de Ganancia por producto superior a 20%
 SELECT 	venta.Producto, 
 		venta.SumaVentas, 
