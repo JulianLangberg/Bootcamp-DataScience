@@ -1,0 +1,9 @@
+windows usar virtual box y usar la maquina virtual (recomendado porque es lo mas comun)
+hay dos opciones, sino el docker hub e instalar el desktop 
+shell script
+comando de linux
+linux ir directamente a 4B (aunque esta bueno tambien bajar virtual box)
+windows, bajar virtual box, ir a clase 1, descomprimir el archivo, y en virtual box
+ir a nuevo, nuevo servidor, ubuntu, next, asignar memoria ram, y usar disco existente
+(VDI descargada del g.drive), crear y sale la maquina virtual. Dsp configurar y en 
+RED, pasar de no conectado a ADAPTADOR PUENTE

@@ -1,0 +1,7 @@
+agregar sh en el punto 2. inicializar el cluster
+(sh aca adelante) ./start-conterner.sh  (depende de la version del shell)
+
+du -sh input para ver el tamaño de los archivos mejor.
+
+cerrar servicios que quedaron corriendo.
+saber hdfs, mover archivos dentro y fuera de hadoop
