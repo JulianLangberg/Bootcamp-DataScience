@@ -1,0 +1,20 @@
+sudo apt-get install openssh-server
+
+Usuario : ubuntu
+Contraseña : ubuntu
+
+sudo apt install git-all
+sudo apt install -y docker-compose
+git clone https://github.com/tech4242/docker-hadoop-hive-parquet.git
+cd docker-hadoop-hive-parquet/
+sudo docker-compose up
+
+# Esto nos ubica en el bash del contenedor servidor de hive
+sudo docker exec -it dockerhadoophiveparquet_hive-server_1 bash
+# Esto nos ubica dentro de hive:
+hive
+
+# Esto nos ubica dentro del contenedor NameNode:
+sudo docker exec -it dockerhadoophiveparquet_namenode_1 bash
+# Esto nos permite listar los directorios del cluster:
+hdfs dfs -ls /
