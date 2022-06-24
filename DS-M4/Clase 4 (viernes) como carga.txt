@@ -1,0 +1,28 @@
+sudo docker ps -a
+
+ver como crear un usuario
+
+11.01 ver que onda lo de hive.
+sudo docker exec -it nombredehive-server_1 bash --> para iniciar bash
+sudo docker ps -a --> ver el nombre de hive-server_1
+
+
+sudo docker compose down
+killall docker-compose 
+ctrl + c
+
+mas utulizado binario parquet, comprimido con snappy. Son rapidos y de bajo tamaño
+muy buen procesamiento.
+
+sudo docker image ls para ve rel espacio que ocupa
+
+interactuar con hdfs, hue, ver cambios en el sistema de archivos, ver como impacta
+en la tabla
+
+tocar la particion de una tabla, impacta en la tabla original.
+
+
+tabla diferencia hacer manager o external. 
+Si es manager y dropeo la tabla, elimina la carpeta. Si es external no.
+
+Ver 10.50 aprox como carga los archivos
