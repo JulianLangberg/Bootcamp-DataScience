@@ -4,7 +4,7 @@ gramarly
 ccleaner
 pot player
 discord xxx
-git 
+git xxx
 github xxx
 mysql
 nitro pro 9+
