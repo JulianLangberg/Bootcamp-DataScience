@@ -1,0 +1,29 @@
+AND
+{Nombre:'Roberto', apellido:'García'}
+{ $and: [ { <expression1> }, { <expression2> } , ... , { <expressionN> } ] }
+
+OR
+{ $or: [ { <expression1> }, { <expression2> }, ... , { <expressionN> } ] }
+
+LIKE
+/a/ %a%
+/^a/ a%
+/a$/ %a
+
+Comparadores
+>
+{field: {$gt: value} }
+>=
+{field: {$gte: value} }
+==
+{ <field>: { $eq: <value> } }
+<
+{ field: { $lt: value} }
+<=
+{ field: { $lte: value} }
+BETWEEN
+{field:{$gt: value, $lt: value}}
+
+Ejemplo de JSON:
+{"nombre": "Yamila", "apellido": "Stratos", "dni":"35458753"}
+{"nombre": "Carlos", "apellido": "Juarez", "dni":"25369854"}
