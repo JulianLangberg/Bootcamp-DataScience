@@ -10,6 +10,7 @@ def Ret_Pregunta01():
     Esta función debe informar la cantidad de registros retornando ese valor en un dato de tipo entero.
     '''
     #Tu código aca:
+    ##
    
 
 def Ret_Pregunta02():
