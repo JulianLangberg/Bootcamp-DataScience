@@ -1,0 +1,26 @@
+practicar comandos de HDFS https://sparkbyexamples.com/apache-hadoop/hadoop-hdfs-dfs-commands-and-starting-hdfs-dfs-services/
+
+loguearse
+hay un archivo de paso a paso configuracion docker clase 8.
+
+sudo apt install (en linux el 90% se instala así) unrar
+
+ls -ll te permite ver lo que hay.
+
+docker-compose up se hace en la carpeta donde este la imagen yml
+
+sudo docker ps-a te muestra las imagene que estan levantadas
+
+kafka. Ver los links del clase 7.
+
+modificar version por si no carga: vi docker compose up xasxasx.yml
+ver minuto 10.45 el tema de habilitar permisos de la app.
+
+ver github de Marcel-Jan para hacer una practica de Spark.
+Acordarse de poner sudo antes de los comandos. 
+
+ver minuto 12.10 si hay dudas para moverse en carpetas
+cd spark
+cd bin
+para entrar al ejecutable, y dsp tira el comando pyspark --master
+(poner todo el codigo /spark/bin/pyspark .....
