@@ -203,17 +203,21 @@ Aparece la ventana Obtener datos, que muestra muchas categorías a las que Power
 
 [Windows 10 y Virtual Box - MAC](https://www.youtube.com/watch?v=WbpE9euPcJY)
 
-[Guía de descarga e instalación de Power BI](https://docs.microsoft.com/es-es/power-bi/fundamentals/desktop-get-the-desktop#download-power-bi-desktop-directly)
+[Guía de descarga e instalación de Power BI](https://.microsoft.com/es-es/power-bi/fundamentals/desktop-get-the-desktop#download-power-bi-desktop-directly)
 
 [Introducción a Power BI](https://powerbi.microsoft.com/es-es/getting-started-with-power-bi/)
 
 
 ## Homework
 
-1. Relaciona cada situación con algún tipo de gráfico y representalos con datos aleatorios en alguna herramienta que le resulte familiar (Excel  Power Point, etc):
+1. Relaciona cada situación con algún tipo de gráfico y representalos con datos aleatorios en algunadocs herramienta que le resulte familiar (Excel  Power Point, etc):
 - a) Velocidad de frenado promedio de 5 modelos distintos de vehículos.
+grafico de columnas
 - b) Costo de una llamada por segundos.
+Grafico de lineas. X = costo de llamada; Y = Segundos de duracion.
 - c) El recorrido del equipo de ventas de una distribuidora con 4 paradas y las sumas vendidas en cada una.
+Mapa georeferenciado. Lat y Long + importe de ventas en cada punto
+
 - d) Cambios de temperatura de un líquido a lo largo del tiempo hasta que se enfría del todo.<br>
 ¿Qué gráfico resulta más preciso para representar las variables? 
 
@@ -224,7 +228,7 @@ Aparece la ventana Obtener datos, que muestra muchas categorías a las que Power
 - d) ¿Que sucede luego del máximo de mts recorridos?
 - e) ¿Cuantos metros recorrio en total?
 
-![Ejercicio2](/_src/assets/ejer2.PNG)
+![Ejercicio2](../_src/assets/ejer2.PNG)
 
 3. Se decide presentar el volumen de ventas de 5 productos correspondientes a una distribuidora de alimentos. Los productos van de A = 100 un., B = 95 un., C =90 un., D = 88 un., E = 105 un.
  - a) ¿Que gráfico utilizaría?.
@@ -237,7 +241,7 @@ Aparece la ventana Obtener datos, que muestra muchas categorías a las que Power
  - c) ¿Qué otros tipos de gráficos utilizaría?
  - d) ¿Que tipo de tematicas estarían relacionadas a la variable presentada?
 
- ![Ejercicio3](/_src/assets/ejer3.PNG)
+ ![Ejercicio3](../_src/assets/ejer3.PNG)
 
 5. Debes instalar Power BI Desktop y seguir las instrucciones del siguiente link para realizar tu primer conexión de datos:
 
