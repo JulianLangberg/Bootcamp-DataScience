@@ -9,6 +9,9 @@ cd data
 unrar e Extract_2_json_Files.rar
 cd ..
 sudo apt upgrade pip
+modificar version de docker, entrando con el editor vim:
+vi sudo docker-compose...
+ver cheatsheet de vim https://vim.rtorr.com/
 sudo docker-compose build
 sudo docker-compose up
 
@@ -40,7 +43,7 @@ sudo docker-compose up
     e) NOw trigger the DAG from Airflow UI
 
   	f) OPen another command prompt 
-			->  docker exec -ti airflow_container bash
+			->  sudo docker exec -ti airflow_container bash
 			-> cd /opt/apache-hive-2.0.1-bin/bin
 			->	chmod 777 hive		
 			-> hive					-					
