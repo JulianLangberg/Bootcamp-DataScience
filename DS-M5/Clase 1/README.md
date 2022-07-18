@@ -208,6 +208,29 @@ Aparece la ventana Obtener datos, que muestra muchas categorías a las que Power
 [Introducción a Power BI](https://powerbi.microsoft.com/es-es/getting-started-with-power-bi/)
 
 
+Si alguien tuvo error al conectar en power BI con MySQL (imagen), asi lo pude solucionar:
+
+For all those still struggling with the issue. Please download the latest so far 8.0.29 version of MySQL .Net Connector from https://dev.mysql.com/downloads/connector/net/
+
+ 
+
+and add below text to C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Config\machine.config
+
+ 
+
+under 
+
+ <DbProviderFactories>
+<add name="MySQL Data Provider" invariant="MySql.Data.MySqlClient" description=".Net Framework Data Provider for MySQL" type="MySql.Data.MySqlClient.MySqlClientFactory, MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+</DbProviderFactories> 
+
+ 
+
+Cheers 
+Imagen
+
+
+
 ## Homework
 
 1. Relaciona cada situación con algún tipo de gráfico y representalos con datos aleatorios en alguna herramienta que le resulte familiar (Excel  Power Point, etc):
@@ -267,3 +290,4 @@ Las métricas a representar son:
     </td>
   </tr>
 </table>
+
