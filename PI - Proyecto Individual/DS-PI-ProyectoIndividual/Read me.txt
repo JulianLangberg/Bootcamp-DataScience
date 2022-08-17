@@ -1,0 +1,19 @@
+Proyecto API Dolar blue
+
+# descargar data y generar dataframes de consulta + limpieza de datos
+# Power BI, cargar información y generar una app de informe.
+    -   introducción de economía y valores estocasticos.
+
+# Calculos a mostrar
+    - brecha por dia y por semana
+    - linea de tiempo oficial y blue
+    -
+    Últimos 365 días:
+
+    - Día con mayor variación en la brecha
+    - Top 5 días con mayor volatilidad
+    - Semana con mayor variación en la brecha
+    - Día de la semana donde hay mayor variación en la brecha   
+
+# Machine learning
+    
