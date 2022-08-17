@@ -56,7 +56,7 @@ Por ejemplo, si contamos con estos datos:
 
 ## Arbol de Decisión
 
-Este algoritmo divide el conjunto de datos en subconjuntos en forma sucesiva hasta obtener nodos en que la totalidad de sus elementos pertenecen a un mismo valor de la lasificación. La división está basada en el criterio más significativo para diferenciar los elementos:
+Este algoritmo divide el conjunto de datos en subconjuntos en forma sucesiva hasta obtener nodos en que la totalidad de sus elementos pertenecen a un mismo valor de la clasificación. La división está basada en el criterio más significativo para diferenciar los elementos:
 
 * Disminuir la Entropía / Ganancia de Información.
 * Gain Ratio: corrige la preferencia de ganancia de información por atributos con demasiados valores.
