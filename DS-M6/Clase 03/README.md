@@ -42,9 +42,9 @@ En el ejemplo de los valores de las propiedades:
 
 [Enlace recomendado] (https://www.youtube.com/watch?v=zvUOpbgtW3c)
 
-## Medición de Error en probemas de Regresión
+## Medición de Error en problemas de Regresión
 
-1) MAE (Error abstoluto medio):
+1) MAE (Error absoluto medio):
   * Se suman las distancias entre el valor en y real, y el predicho. Aunque esos errores tienen distinto signo. Si sumamos sin considerar eso, podría suceder que se cancelen.
   * Sumando los valores absolutos, queda resuelto ese problema:
   * Sin embargo ahora, a mayor cantidad de muestras el error se hace mayor.
