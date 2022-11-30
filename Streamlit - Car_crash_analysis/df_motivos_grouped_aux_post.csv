@@ -1,0 +1,16 @@
+,contributing_factor_vehicle,number_of_crashes,number_of_persons_killed
+0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,2743,31
+1,Reaction to Uninvolved Vehicle,3731,0
+2,Alcohol Involvement,3882,26
+3,Driver Inexperience,5022,25
+4,Turning Improperly,5515,8
+5,Unsafe Lane Changing,5592,9
+6,Traffic Control Disregarded,7574,44
+7,Backing Unsafely,7844,5
+8,Other Vehicular,8960,2
+9,Unsafe Speed,9316,156
+10,Passing Too Closely,9909,0
+11,Passing or Lane Usage Improper,11822,11
+12,Failure to Yield Right-of-Way,17262,47
+13,Following Too Closely,17976,2
+14,Driver Inattention/Distraction,67428,70

@@ -1,0 +1,16 @@
+,contributing_factor_vehicle,number_of_crashes,number_of_persons_killed
+0,Prescription Medication,18374,9
+1,Pavement Slippery,19668,9
+2,Lost Consciousness,24883,28
+3,Driver Inexperience,29475,28
+4,Traffic Control Disregarded,30267,183
+5,Unsafe Lane Changing,36814,8
+6,Passing Too Closely,42288,2
+7,Passing or Lane Usage Improper,48536,16
+8,Turning Improperly,49411,14
+9,Fatigued/Drowsy,57708,3
+10,Backing Unsafely,69587,37
+11,Other Vehicular,78906,33
+12,Following Too Closely,95921,20
+13,Failure to Yield Right-of-Way,107429,187
+14,Driver Inattention/Distraction,380390,256

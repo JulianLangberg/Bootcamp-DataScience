@@ -1,0 +1,16 @@
+,contributing_factor_vehicle,number_of_crashes,number_of_persons_killed
+0,View Obstructed/Limited,425,0
+1,Reaction to Uninvolved Vehicle,578,0
+2,Alcohol Involvement,583,4
+3,Driver Inexperience,738,6
+4,Unsafe Lane Changing,884,2
+5,Turning Improperly,904,3
+6,Traffic Control Disregarded,1115,6
+7,Backing Unsafely,1248,3
+8,Unsafe Speed,1344,24
+9,Other Vehicular,1379,0
+10,Passing Too Closely,1558,0
+11,Passing or Lane Usage Improper,1844,2
+12,Failure to Yield Right-of-Way,2749,4
+13,Following Too Closely,2932,0
+14,Driver Inattention/Distraction,10576,13
